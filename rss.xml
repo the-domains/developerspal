@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Developerspal - We make development painless]]></title>
         <description><![CDATA[Developerspal - We make development painless]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/developerspal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 10:31:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 10:34:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/developerspal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Contact Us</p>]]></description>
+            <link>https://thegrid.ai/developerspal/51208daa-faab-449e-8b8b-5b67f864fd65/index.html</link>
+            <guid isPermaLink="false">51208daa-faab-449e-8b8b-5b67f864fd65</guid>
+            <pubDate>Mon, 22 Feb 2016 10:34:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home]]></title>
-            <description><![CDATA[<article><h1>Home</h1><p>This is going to be our homepage</p></article>]]></description>
-            <link>undefinedhome/index.html</link>
+            <description><![CDATA[<article><h1>Home</h1><p>This is our homepage</p></article>]]></description>
+            <link>https://thegrid.ai/developerspal/home/index.html</link>
             <guid isPermaLink="false">b35a9d04-927b-49cd-863e-6fdee9e0e7da</guid>
             <pubDate>Mon, 22 Feb 2016 10:31:35 GMT</pubDate>
         </item>
