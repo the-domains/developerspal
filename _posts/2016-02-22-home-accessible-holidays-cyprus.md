@@ -16,8 +16,8 @@ keywords:
   - scuba-diving
   - village
 description: 'Travel assistance for the disabled on vacation to Cyprus. With all required equipment. We also have organized trips to villages. Diving lessons are also given. Launched over 8 years ago, Oberon Explorations was the first company in Cyprus to focus specifically on the needs of the disabled visitor to Cyprus.'
-datePublished: '2016-02-23T12:10:38.487Z'
-dateModified: '2016-02-23T12:10:08.978Z'
+datePublished: '2016-02-23T12:38:38.605Z'
+dateModified: '2016-02-23T12:33:56.098Z'
 author: []
 related: []
 app_links: []
