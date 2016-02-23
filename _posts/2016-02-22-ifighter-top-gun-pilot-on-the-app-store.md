@@ -16,8 +16,8 @@ keywords:
   - fire-power
   - bravest
 description: 'Read reviews, compare customer ratings, see screenshots, and learn more about iFighter - Top Gun Pilot. Download iFighter - Top Gun Pilot and enjoy it on your iPhone, iPad, and iPod touch.'
-datePublished: '2016-02-23T12:09:21.118Z'
-dateModified: '2016-02-22T11:17:05.539Z'
+datePublished: '2016-02-23T12:26:07.290Z'
+dateModified: '2016-02-23T12:25:48.563Z'
 author: []
 related: []
 app_links: []
