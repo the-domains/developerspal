@@ -1,20 +1,4 @@
-name: Developerspal
-favicon: null
-layout_spectrum: 0.8794393024872988
-typography_spectrum: 1
-title: Developerspal - We make development painless
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#a8d9f6'
@@ -24,6 +8,11 @@ color:
     - '#a4b9c6'
   brandStrength: 1
   lightness: 0
-  saturation: 0
   rhythmicContrast: 0
+  saturation: 0
+cta: {}
+layout_spectrum: 1
+name: Developerspal
+opengraph: {}
 purpose: []
+typography_spectrum: 1
