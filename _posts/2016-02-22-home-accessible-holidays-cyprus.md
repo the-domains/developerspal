@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.accessibleholidayscyprus.com'
-  name: Accessible Holidays Cyprus
-  favicon: null
-  domain: www.accessibleholidayscyprus.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - villa
   - cyprus
@@ -18,17 +16,21 @@ keywords:
   - scuba-diving
   - village
 description: 'Travel assistance for the disabled on vacation to Cyprus. With all required equipment. We also have organized trips to villages. Diving lessons are also given. Launched over 8 years ago, Oberon Explorations was the first company in Cyprus to focus specifically on the needs of the disabled visitor to Cyprus.'
-inLanguage: en
+datePublished: '2016-02-23T12:10:00.031Z'
+dateModified: '2016-02-22T11:12:42.102Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.accessibleholidayscyprus.com/'
 title: Home - Accessible Holidays Cyprus
-datePublished: '2016-02-22T10:59:23.920Z'
-dateModified: '2016-02-22T10:57:26.594Z'
 sourcePath: _posts/2016-02-22-home-accessible-holidays-cyprus.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Accessible Holidays Cyprus
+  domain: www.accessibleholidayscyprus.com
+  url: 'http://www.accessibleholidayscyprus.com'
+  favicon: null
+url: home-accessible-holidays-cyprus/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
