@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://itunes.apple.com'
-  name: iTunes
-  favicon: 'https://itunes.apple.com/favicon.ico'
-  domain: itunes.apple.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - ifighter
   - itunes
@@ -18,17 +16,21 @@ keywords:
   - fire-power
   - bravest
 description: 'Read reviews, compare customer ratings, see screenshots, and learn more about iFighter - Top Gun Pilot. Download iFighter - Top Gun Pilot and enjoy it on your iPhone, iPad, and iPod touch.'
-inLanguage: en
+datePublished: '2016-02-23T12:09:21.118Z'
+dateModified: '2016-02-22T11:17:05.539Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://itunes.apple.com/us/app/ifighter-top-gun-pilot/id727276665?mt=8'
 title: iFighter - Top Gun Pilot on the App Store
-datePublished: '2016-02-22T11:12:16.457Z'
-dateModified: '2016-02-22T11:11:55.733Z'
 sourcePath: _posts/2016-02-22-ifighter-top-gun-pilot-on-the-app-store.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: iTunes
+  domain: itunes.apple.com
+  url: 'http://itunes.apple.com'
+  favicon: 'https://itunes.apple.com/favicon.ico'
+url: ifighter-top-gun-pilot-on-the-app-store/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
