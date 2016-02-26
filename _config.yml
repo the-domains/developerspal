@@ -1,4 +1,19 @@
-analytics: {}
+name: Developerspal
+favicon: null
+layout_spectrum: 0.692567
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#a8d9f6'
@@ -8,11 +23,6 @@ color:
     - '#a4b9c6'
   brandStrength: 1
   lightness: 0
-  rhythmicContrast: 0
   saturation: 0
-cta: {}
-layout_spectrum: 0.692567
-name: Developerspal
-opengraph: {}
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 1
